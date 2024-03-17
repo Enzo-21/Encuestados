@@ -52,16 +52,6 @@ ul {
 	margin: 80px auto 50px;
 }
 
-.logo-acamica {
-	width: 103px;
-	height: 21px;
-	background-image: url(../img/logo_acamica.png);
-	background-size: auto 100%;
-	background-repeat: no-repeat;
-	background-position: center;
-	margin: 80px auto 40px;
-}
-
 nav {
 	padding: 40px 20px 0;
 	margin-bottom: 40px;
@@ -86,7 +76,7 @@ nav ul li a {
 	display: inline-block;
 	padding: 0 20px;
     color: #3A4043;
-    // font-weight: bold;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
